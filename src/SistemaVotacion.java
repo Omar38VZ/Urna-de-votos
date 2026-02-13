@@ -12,7 +12,7 @@ public class SistemaVotacion{
         int totalVotos = 0;
         int candidato;
 
-        System.out.println("=== SISTEMA DE VOTACIÓN ===");
+        System.out.println("-----SISTEMA DE VOTACIÓN-----");
         System.out.println("Ingrese el número del candidato (1 - " + maxCandidatos + ")");
         System.out.println("Ingrese 0 para terminar.");
 
